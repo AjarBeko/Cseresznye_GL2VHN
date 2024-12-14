@@ -8,7 +8,7 @@ Az adatbázis saját Azure szerveren helyezkedik el.
 ![image](https://github.com/user-attachments/assets/2e16c2c9-a021-4028-b5c6-881410a546bd)
 ![image](https://github.com/user-attachments/assets/2d80c584-14da-4152-a5ca-ef13643cb873)
 
-Az adatbázishoz az SQL-t egy C# scripttel generáltam a ChatGPT-nek beadott promptok álta, majd a scripteket lefuttattam Azure Data studio-ban. Ehhez tartozik egy Scaffold-DbContext, amellyel tudunk csatlakozni az adatbázishoz az API-val és a Form-mal. A promptok és a Scaffold-DbContext itt találhatók. 
+Az adatbázishoz az SQL-t egy C# scripttel generáltam a ChatGPT-nek beadott promptok álta, majd a scripteket lefuttattam Azure Data studio-ban. Ehhez tartozik egy Scaffold-DbContext, amellyel tudunk csatlakozni az adatbázishoz az API-val és a Form-mal. A promptok és a Scaffold-DbContext itt találhatók. (https://github.com/AjarBeko/CherryPicking)
 -	3x1p Az alkalmazásban használt táblánként pont (Ugyfelek, Cimek, Autok)
 -	1p Az adatbázis tartalmaz Constraint-eket (min 2)
 -	2p Az adatbázis saját Azure SQL szerveren van
