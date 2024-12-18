@@ -58,7 +58,6 @@ A második UserControl-ban DataGridView-n keresztül jelentjük meg az Ügyfelek
 #### UserControl3
 A harmadik UserControl-ban DataGridView-ban megjelenítésre kerülnek a gépjárművek, és hozzá tartozik két számítás. Az egykben az adatbázisban szereplő autók számát írjuk ki, a másodikban, pedig az átlagos hengerűrtartalmat, amivel az autók rendelkeznek.
 -	1x2p Adatok megjelenítése
--	1x1p Az algoritmus (8. osztályig nem tanított) matematikai képletet is alkalmaz
 ![image](https://github.com/user-attachments/assets/4e0a6365-0d88-4a3f-a04b-c3e00285afa5)
 #### Adatkötés BindingSource-on keresztül
 -	1x2p Működő BindingSource
