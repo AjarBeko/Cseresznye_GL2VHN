@@ -62,6 +62,7 @@ A harmadik UserControl-ban DataGridView-ban megjelenítésre kerülnek a gépjá
 #### Adatkötés BindingSource-on keresztül
 -	1x2p Működő BindingSource
 -	3x1p Egy BindingSource-ra egy gyűjemény megjelenítésére alkalmas vezérlő (ListBox, ComboBox, DataGridVIew) mellett más adatkötött vezérlő is van kötve, mint TextBox, DateTimePicker, ComboBox idegen kulcs értékének beállítására, stb.
+
 ![image](https://github.com/user-attachments/assets/28fa8b86-d2bc-414e-aa7a-fe436f0fe25b)
 ![image](https://github.com/user-attachments/assets/c7db2047-87a4-4d5c-aa62-57a2db49d07a)
 
